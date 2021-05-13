@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
             profileLabelText.text = "好きな食べ物"
             profileCommentText.text = "キャンディやドーナツが大好き"
         }
-
+        //copy
         button4.setOnClickListener {
             profileImage.setImageResource(R.drawable.gadget_image)
             profileLabelText.text = "趣味"
